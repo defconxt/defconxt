@@ -22,7 +22,3 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 [![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6553c26668ca6026132dfc98?variant=dark)](https://roadmap.sh)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=defconxt&theme=radical&border_radius=3.5&mode=weekly)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=defconxt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
