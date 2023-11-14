@@ -21,4 +21,4 @@
 
 ---
 
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/wide/6553c26668ca6026132dfc98?variant=dark)](https://roadmap.sh)
+[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6553c26668ca6026132dfc98?variant=dark)](https://roadmap.sh)
