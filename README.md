@@ -10,7 +10,7 @@
   </a>
 </div>
 
-### Hi there 👋
+### Hi 👋
 
 
 - 🔭 Working on growing my homelab with internal services that I enjoy utilizing for home projects.
