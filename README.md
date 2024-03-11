@@ -13,11 +13,9 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on growing my homelab with services that help me learn.
-- 🌱 I’m currently learning Proxmox, Docker, LXC, Kubernetes.
-- 🤔 I’m looking for help with becoming the best cybersecurity expert that I can be.
-- 💬 Ask me anything about Security Topics!
-- ⚡ Fun fact: I absolutely love skiing.
+- 🔭 Working on growing my homelab with internal services that I enjoy utilizing for home projects.
+- 🌱 Learning Proxmox, Docker, LXC, Kubernetes.
+- ⚡ Fun facts: I absolutely love skiing, racing moto, anything that gets the adrenaline flowing.
 
 ---
 
