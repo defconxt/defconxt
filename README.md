@@ -14,8 +14,8 @@
 
 
 - 🔭 Working on growing my homelab with internal services that I enjoy utilizing for home projects.
-- 🌱 Learning Proxmox, Docker, LXC, Kubernetes.
-- ⚡ Fun facts: I absolutely love skiing, racing moto, anything that gets the adrenaline flowing.
+- 🌱 Currently learning Proxmox, Docker, and Ansible.
+- ⚡ Fun facts: I absolutely love skiing, racing moto, and anything that gets the adrenaline flowing.
 
 ---
 
