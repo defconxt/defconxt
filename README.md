@@ -16,7 +16,3 @@
 - 🔭 Working on growing my homelab with internal services that I enjoy utilizing for home projects.
 - 🌱 Currently learning Proxmox, Docker, and Ansible.
 - ⚡ Fun facts: I absolutely love skiing, racing moto, and anything that gets the adrenaline flowing.
-
----
-
-[![roadmap.sh](https://api.roadmap.sh/v1-badge/tall/6553c26668ca6026132dfc98?variant=dark)](https://roadmap.sh)
