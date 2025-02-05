@@ -2,10 +2,10 @@
   <img src="https://media.giphy.com/media/92KgrxwgebKs7eFkqr/giphy.gif" width="250"/>
 </div>
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/in/tcbt">
+  <a href="https://www.linkedin.com/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://www.youtube.com/@tcasex">
+  <a href="https://www.youtube.com/">
     <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
   </a>
 </div>
