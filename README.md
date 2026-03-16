@@ -26,7 +26,7 @@ Senior Security Engineer. I build tools, break things, and automate everything t
 
 - 🔭 Building **[blacktemple.net](https://blacktemple.net)** - cybersecurity intelligence platform with AI-powered daily news
 - 🛡️ Building **[CIPHER](https://github.com/defconxt/CIPHER)** - security engineering assistant with 96 knowledge docs and 28 skills
-- 🎒 Building **[packforge.org](https://packforge.org)** - open-source gear list manager for ultralight backpacking
+- 🎒 Building **[packforge.org](https://packforge.org)** - open-source gear list manager for ultralight backpacking & hike camping
 - 🏔️ Outside: skiing, moto racing, skydiving, hiking, and anything that gets the adrenaline flowing
 
 ---
