@@ -27,7 +27,7 @@ Security engineer out of Colorado. I build tools, break things, and automate eve
 - 🔭 Building **[blacktemple.net](https://blacktemple.net)** — cybersecurity intelligence platform with AI-powered daily news
 - 🛡️ Building **[CIPHER](https://github.com/defconxt/CIPHER)** — security engineering assistant with 96 knowledge docs and 28 skills
 - 🎒 Building **[packforge.org](https://packforge.org)** — open-source gear list manager for ultralight backpacking
-- 🏔️ Outside: skiing, moto racing, skydiving, and anything that gets the adrenaline flowing
+- 🏔️ Outside: skiing, moto racing, skydiving, hiking, and anything that gets the adrenaline flowing
 
 ---
 
