@@ -1,18 +1,127 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/92KgrxwgebKs7eFkqr/giphy.gif" width="250"/>
 </div>
+
 <div id="badges" align="center">
-  <a href="https://www.linkedin.com/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  <a href="https://blacktemple.net">
+    <img src="https://img.shields.io/badge/blacktemple.net-0a0a0a?style=for-the-badge&logo=vercel&logoColor=a855f7" alt="blacktemple.net"/>
   </a>
-  <a href="https://www.youtube.com/">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
+  <a href="https://blacktemple.net/cipher">
+    <img src="https://img.shields.io/badge/CIPHER_KB-a855f7?style=for-the-badge&logo=bookstack&logoColor=white" alt="CIPHER KB"/>
+  </a>
+  <a href="https://github.com/defconxt">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
 </div>
 
-### Hi 👋
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=defconxt&style=flat-square&color=a855f7" alt="Profile views"/>
+</div>
 
+---
 
-- 🔭 Working on growing my homelab with internal services that I enjoy utilizing for home projects.
-- 🌱 Currently learning Proxmox, Docker, and Ansible.
-- ⚡ Fun facts: I absolutely love skiing, racing moto, and anything that gets the adrenaline flowing.
+### Hey 👋
+
+Security engineer out of Colorado. I build tools, break things, and automate everything I can.
+
+- 🔭 Building **[blacktemple.net](https://blacktemple.net)** — cybersecurity intelligence platform with AI-powered daily news
+- 🛡️ Building **[CIPHER](https://github.com/defconxt/CIPHER)** — security engineering assistant with 96 knowledge docs and 28 skills
+- 🎒 Building **[packforge.org](https://packforge.org)** — open-source gear list manager for ultralight backpacking
+- ⚡ Fun facts: skiing, racing moto, and anything that gets the adrenaline flowing
+
+---
+
+### 🛠️ Projects
+
+<table>
+<tr>
+<td width="50%">
+
+**[CIPHER](https://github.com/defconxt/CIPHER)**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
+<br/>
+Security engineering assistant — 96 deep-dive knowledge docs, RAG-powered retrieval, 7 operating modes, 28 slash commands. Runs locally via Ollama or cloud via Claude API.
+<br/>
+`pip install cipher-security`
+
+</td>
+<td width="50%">
+
+**[blacktemple.net](https://blacktemple.net)**
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+<br/>
+Cybersecurity intelligence platform. AI-powered daily news from 40+ feeds, threat actor database, privacy threat mapping, integrated CIPHER knowledge base. Dark ops center aesthetic.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[packforge](https://github.com/defconxt/packforge)**
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+<br/>
+Free, open-source gear list manager for ultralight backpackers. Track pack weight, compare loadouts, plan trips with topo maps.
+
+</td>
+<td width="50%">
+
+**[ArchJoyHide](https://github.com/defconxt/ArchJoyHide)**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/eBPF-000000?style=flat&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/AUR-1793D1?style=flat&logo=archlinux&logoColor=white"/>
+<br/>
+Linux HidHide equivalent — hide USB input devices from games at the kernel level using eBPF LSM. Whitelist/blacklist modes, Wine/Proton support. GUI + CLI.
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[Arch-CachyOS](https://github.com/defconxt/Arch-CachyOS)**
+<br/>
+<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white"/>
+<br/>
+Declarative configs, guides, and idempotent setup scripts for a full gaming desktop on CachyOS/Arch. Living migration guide from Windows.
+
+</td>
+<td width="50%">
+
+**[homelab-automation](https://github.com/defconxt/homelab-automation)**
+<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+<br/>
+Infrastructure-as-code homelab automation. Provisioning, configuration management, and monitoring for self-hosted services.
+
+</td>
+</tr>
+</table>
+
+---
+
+### 🧰 Stack
+
+<div>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=flat&logo=proxmox&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Claude-191919?style=flat&logo=anthropic&logoColor=white"/>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=defconxt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a855f7&icon_color=a855f7&text_color=e5e5e5" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=defconxt&theme=tokyonight&hide_border=true&background=0a0a0a&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" width="48%"/>
+</div>
