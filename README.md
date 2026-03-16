@@ -22,7 +22,7 @@
 
 ### Hey 👋
 
-Security engineer out of Colorado. I build tools, break things, and automate everything I can.
+Senior Security Engineer. I build tools, break things, and automate everything that I possible can. I'm currently heavily focused on the AI Front.
 
 - 🔭 Building **[blacktemple.net](https://blacktemple.net)** - cybersecurity intelligence platform with AI-powered daily news
 - 🛡️ Building **[CIPHER](https://github.com/defconxt/CIPHER)** - security engineering assistant with 96 knowledge docs and 28 skills
