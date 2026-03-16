@@ -24,9 +24,9 @@
 
 Security engineer out of Colorado. I build tools, break things, and automate everything I can.
 
-- 🔭 Building **[blacktemple.net](https://blacktemple.net)** — cybersecurity intelligence platform with AI-powered daily news
-- 🛡️ Building **[CIPHER](https://github.com/defconxt/CIPHER)** — security engineering assistant with 96 knowledge docs and 28 skills
-- 🎒 Building **[packforge.org](https://packforge.org)** — open-source gear list manager for ultralight backpacking
+- 🔭 Building **[blacktemple.net](https://blacktemple.net)** - cybersecurity intelligence platform with AI-powered daily news
+- 🛡️ Building **[CIPHER](https://github.com/defconxt/CIPHER)** - security engineering assistant with 96 knowledge docs and 28 skills
+- 🎒 Building **[packforge.org](https://packforge.org)** - open-source gear list manager for ultralight backpacking
 - 🏔️ Outside: skiing, moto racing, skydiving, hiking, and anything that gets the adrenaline flowing
 
 ---
@@ -41,7 +41,7 @@ Security engineer out of Colorado. I build tools, break things, and automate eve
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
 <br/>
-Security engineering assistant — 96 deep-dive knowledge docs, RAG-powered retrieval, 7 operating modes, 28 slash commands. Runs locally via Ollama or cloud via Claude API.
+Security engineering assistant - 96 deep-dive knowledge docs, RAG-powered retrieval, 7 operating modes, 28 slash commands. Runs locally via Ollama or cloud via Claude API.
 <br/>
 `pip install cipher-security`
 
@@ -72,7 +72,7 @@ Free, open-source gear list manager for ultralight backpackers. Track pack weigh
 <br/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/eBPF-000000?style=flat&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/AUR-1793D1?style=flat&logo=archlinux&logoColor=white"/>
 <br/>
-Linux HidHide equivalent — hide USB input devices from games at the kernel level using eBPF LSM. Whitelist/blacklist modes, Wine/Proton support. GUI + CLI.
+Linux HidHide equivalent - hide USB input devices from games at the kernel level using eBPF LSM. Whitelist/blacklist modes, Wine/Proton support. GUI + CLI.
 
 </td>
 </tr>
