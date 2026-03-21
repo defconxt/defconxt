@@ -121,6 +121,22 @@ Infrastructure-as-code homelab automation. Provisioning, configuration managemen
 
 ---
 
+### Support
+
+<div>
+  <a href="https://github.com/sponsors/defconxt">
+    <img src="https://img.shields.io/badge/GitHub_Sponsors-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Sponsors"/>
+  </a>
+  <a href="https://ko-fi.com/packforge">
+    <img src="https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
+  </a>
+  <a href="https://buymeacoffee.com/ciphersecurity">
+    <img src="https://img.shields.io/badge/Buy_Me_a_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black" alt="Buy Me a Coffee"/>
+  </a>
+</div>
+
+---
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=defconxt&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0a0a0a&title_color=a855f7&icon_color=a855f7&text_color=e5e5e5" width="48%"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=defconxt&theme=tokyonight&hide_border=true&background=0a0a0a&ring=a855f7&fire=ec4899&currStreakLabel=a855f7" width="48%"/>
