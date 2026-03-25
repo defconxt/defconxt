@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/blacktemple.net-0a0a0a?style=for-the-badge&logo=vercel&logoColor=a855f7" alt="blacktemple.net"/>
   </a>
   <a href="https://blacktemple.net/cipher">
-    <img src="https://img.shields.io/badge/CIPHER_KB-a855f7?style=for-the-badge&logo=bookstack&logoColor=white" alt="CIPHER KB"/>
+    <img src="https://img.shields.io/badge/CIPHER-a855f7?style=for-the-badge&logo=bookstack&logoColor=white" alt="CIPHER"/>
   </a>
   <a href="https://github.com/defconxt">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
