@@ -39,11 +39,11 @@ Senior Security Engineer. I build tools, break things, and automate everything t
 
 **[CIPHER](https://github.com/defconxt/CIPHER)**
 <br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Claude_API-191919?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
 <br/>
-Security engineering assistant - 96 deep-dive knowledge docs, RAG-powered retrieval, 7 operating modes, 28 slash commands. Runs locally via Ollama or cloud via Claude API.
+Security engineering assistant - 96 deep-dive knowledge docs, RAG-powered retrieval, 7 operating modes, 28 slash commands. Runs locally via Ollama, LM Studio, Claude Code, or Claude API.
 <br/>
-`pip install cipher-security`
+`npm install -g cipher-pi`
 
 </td>
 <td width="50%">
