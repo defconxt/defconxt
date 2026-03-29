@@ -35,66 +35,16 @@ Senior Security Engineer. I build tools, break things, and automate everything t
 
 <table>
 <tr>
-<td width="50%">
-
-**[NERF](https://github.com/defconxt/NERF)**
-<br/>
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
-<br/>
-Fully Autonomous Security Engineering Assistant
-<br/>
-`npm install -g @defconxt/nerf`
-
-</td>
-<td width="50%">
-
-**[blacktemple.net](https://blacktemple.net)**
-<br/>
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
-<br/>
-Cybersecurity Intelligence Platform. Autonomous AI-powered daily news from 40+ feeds, threat actor databases, privacy threat mappings, integrated NERF knowledge base. DarkOps center aesthetic.
-
-</td>
+<td width="50%" valign="top"><strong><a href="https://github.com/defconxt/NERF">NERF</a></strong><br/><img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/><br/>Fully Autonomous Security Engineering Assistant<br/><code>npm install -g @defconxt/nerf</code></td>
+<td width="50%" valign="top"><strong><a href="https://blacktemple.net">blacktemple.net</a></strong><br/><img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/><br/>Cybersecurity Intelligence Platform. Autonomous AI-powered daily news from 40+ feeds, threat actor databases, privacy threat mappings, and the NERF Assistant Knowledge Base.</td>
 </tr>
 <tr>
-<td width="50%">
-
-**[packforge](https://github.com/defconxt/packforge)**
-<br/>
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/>
-<br/>
-Free, open-source gear list manager for ultralight backpackers. Track pack weight, compare loadouts, plan trips with topo maps.
-
-</td>
-<td width="50%">
-
-**[ArchJoyHide](https://github.com/defconxt/ArchJoyHide)**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/eBPF-000000?style=flat&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/AUR-1793D1?style=flat&logo=archlinux&logoColor=white"/>
-<br/>
-Linux HidHide equivalent - hide USB input devices from games at the kernel level using eBPF LSM. Whitelist/blacklist modes, Wine/Proton support. GUI + CLI.
-
-</td>
+<td width="50%" valign="top"><strong><a href="https://github.com/defconxt/packforge">packforge</a></strong><br/><img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=flat&logo=supabase&logoColor=white"/><br/>Free, open-source gear list manager for ultralight backpackers. Track pack weight, compare loadouts, plan trips with topo maps.</td>
+<td width="50%" valign="top"><strong><a href="https://github.com/defconxt/ArchJoyHide">ArchJoyHide</a></strong><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/eBPF-000000?style=flat&logo=linux&logoColor=white"/> <img src="https://img.shields.io/badge/AUR-1793D1?style=flat&logo=archlinux&logoColor=white"/><br/>Linux HidHide equivalent - hide USB input devices from games at the kernel level using eBPF LSM. Whitelist/blacklist modes, Wine/Proton support. GUI + CLI.</td>
 </tr>
 <tr>
-<td width="50%">
-
-**[Arch-CachyOS](https://github.com/defconxt/Arch-CachyOS)**
-<br/>
-<img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white"/>
-<br/>
-Declarative configs, guides, and idempotent setup scripts for a full gaming desktop on CachyOS/Arch. Living migration guide from Windows.
-
-</td>
-<td width="50%">
-
-**[homelab-automation](https://github.com/defconxt/homelab-automation)**
-<br/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<br/>
-Infrastructure-as-code homelab automation. Provisioning, configuration management, and monitoring for self-hosted services.
-
-</td>
+<td width="50%" valign="top"><strong><a href="https://github.com/defconxt/Arch-CachyOS">Arch-CachyOS</a></strong><br/><img src="https://img.shields.io/badge/Shell-4EAA25?style=flat&logo=gnubash&logoColor=white"/> <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=flat&logo=archlinux&logoColor=white"/><br/>Declarative configs, guides, and idempotent setup scripts for a full gaming desktop on CachyOS/Arch. Living migration guide from Windows.</td>
+<td width="50%" valign="top"><strong><a href="https://github.com/defconxt/homelab-automation">homelab-automation</a></strong><br/><img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/><br/>Infrastructure-as-code homelab automation. Provisioning, configuration management, and monitoring for self-hosted services.</td>
 </tr>
 </table>
 
