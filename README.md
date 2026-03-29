@@ -37,22 +37,21 @@ Senior Security Engineer. I build tools, break things, and automate everything t
 <tr>
 <td width="50%">
 
-**[CIPHER](https://github.com/defconxt/CIPHER)**
+**[NERF](https://github.com/defconxt/NERF)**
 <br/>
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white"/> <img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white"/> <img src="https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white"/>
 <br/>
-Security engineering assistant - 96 deep-dive knowledge docs, RAG-powered retrieval, 7 operating modes, 28 slash commands. Runs locally via Ollama, LM Studio, Claude Code, or Claude API.
+Fully Autonomous Security Engineering Assistant
 <br/>
-`npm install -g cipher-pi`
+`npm install -g @defconxt/nerf`
 
 </td>
 <td width="50%">
-
 **[blacktemple.net](https://blacktemple.net)**
 <br/>
 <img src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white"/> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"/> <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat&logo=tailwindcss&logoColor=white"/>
 <br/>
-Cybersecurity intelligence platform. AI-powered daily news from 40+ feeds, threat actor database, privacy threat mapping, integrated CIPHER knowledge base. Dark ops center aesthetic.
+Cybersecurity Intelligence Platform. Autonomous AI-powered daily news from 40+ feeds, threat actor databases, privacy threat mappings, integrated NERF knowledge base. DarkOps center aesthetic.
 
 </td>
 </tr>
